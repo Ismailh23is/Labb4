@@ -1,0 +1,14 @@
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\bin\Debug\net7.0\Labb 4.exe
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\bin\Debug\net7.0\Labb 4.deps.json
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\bin\Debug\net7.0\Labb 4.runtimeconfig.json
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\bin\Debug\net7.0\Labb 4.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\bin\Debug\net7.0\Labb 4.pdb
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.AssemblyInfoInputs.cache
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.AssemblyInfo.cs
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.csproj.CoreCompileInputs.cache
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\refint\Labb 4.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.pdb
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\Labb 4.genruntimeconfig.cache
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 4\Labb 4\obj\Debug\net7.0\ref\Labb 4.dll
